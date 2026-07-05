@@ -45,7 +45,7 @@ A console-based Employee Management System developed using Java, Hibernate ORM, 
 - MySQL
 
 ## Author
-Maneesha Chagantieesha Chaganti
+Maneesha.C
 =======
 Maneesha Chaganti
 >>>>>>> fc5260de2e681aa118e891054622f54bca0c35a4
