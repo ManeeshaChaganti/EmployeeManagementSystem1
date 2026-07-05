@@ -5,10 +5,10 @@ A console-based Employee Management System developed using Java, Hibernate ORM, 
 
 ## Technologies Used
 - Java
-- Hibernate
+- Hibernate ORM
 - Maven
 - MySQL
-- Eclipse
+- Eclipse IDE
 
 ## Features
 - Add Employee
@@ -21,6 +21,7 @@ A console-based Employee Management System developed using Java, Hibernate ORM, 
 - MySQL
 
 ## Author
+**Maneesha.C**
 <<<<<<< HEAD
 Man# Employee Management System
 
