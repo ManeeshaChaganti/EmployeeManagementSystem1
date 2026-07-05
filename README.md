@@ -21,4 +21,31 @@ A console-based Employee Management System developed using Java, Hibernate ORM, 
 - MySQL
 
 ## Author
+<<<<<<< HEAD
+Man# Employee Management System
+
+## Overview
+A console-based Employee Management System developed using Java, Hibernate ORM, Maven, and MySQL.
+
+## Technologies Used
+- Java
+- Hibernate
+- Maven
+- MySQL
+- Eclipse
+
+## Features
+- Add Employee
+- View All Employees
+- Search Employee by ID
+- Update Employee Salary
+- Delete Employee
+
+## Database
+- MySQL
+
+## Author
+Maneesha Chagantieesha Chaganti
+=======
 Maneesha Chaganti
+>>>>>>> fc5260de2e681aa118e891054622f54bca0c35a4
